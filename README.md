@@ -7,3 +7,4 @@ Program list<br>
 3.) Corvette.js - Demonstrates a basic Class with method</br>
 3.) Company.js - Demonstrates the combination of Inheritance and Polymorphism</br>
 4.) Encapsulation.js - Demonstrates the basic usage of Encapsulation</br>
+5.) Paratrooper.js - Demonstrates the usage of Class Composition</br>
