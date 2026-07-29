@@ -11,3 +11,4 @@ Program list<br>
 6.) Galleon.js - Demonstrates the usage of a synchronous Callback in a class</br> 
 7.) GearShift.js - Demonstrates the usage of Callback Asynchronously</br>
 8.) Carrier.js - Demonstrates the usage of Promises in JavaScript</br>
+9.) Torpedo.js - Demonstrates Async and Await usage<br>
